@@ -1,0 +1,16 @@
+borough,complaint,closed_requests,avg_hours,pct_over_7_days
+MANHATTAN,HEAT/HOT WATER,6961,62.32,0.2
+BROOKLYN,HEAT/HOT WATER,7658,45.41,0.09
+BRONX,HEAT/HOT WATER,10181,39.45,0.05
+QUEENS,HEAT/HOT WATER,3704,46.65,0.0
+STATEN ISLAND,HEAT/HOT WATER,311,40.16,0.0
+QUEENS,Illegal Parking,13622,2.83,0.01
+BRONX,Illegal Parking,6391,4.41,0.0
+BROOKLYN,Illegal Parking,17039,2.77,0.0
+MANHATTAN,Illegal Parking,4536,2.05,0.0
+STATEN ISLAND,Illegal Parking,1332,2.29,0.0
+BRONX,Noise - Residential,35244,5.18,0.0
+BROOKLYN,Noise - Residential,7314,1.72,0.0
+MANHATTAN,Noise - Residential,4723,1.86,0.0
+QUEENS,Noise - Residential,4806,2.35,0.0
+STATEN ISLAND,Noise - Residential,722,1.46,0.0

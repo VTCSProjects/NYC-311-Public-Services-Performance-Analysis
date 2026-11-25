@@ -1,0 +1,14 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+data/raw/
+.env
+.ipynb_checkpoints/
+
+data/processed/nyc_311_2025_combined.csv
+
+data/processed/nyc_311_2025_clean.csv
